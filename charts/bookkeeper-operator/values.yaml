@@ -21,7 +21,7 @@ crd:
   create: true
 
 ## Whether to enable test mode.
-testmode: false
+testmode: true 
 
 ## Specifies which namespace the Operator should watch over.
 ## An empty string means all namespaces.
